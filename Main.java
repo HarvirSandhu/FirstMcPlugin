@@ -1,4 +1,4 @@
-package me.HarvirSandhu.HelloWorld;
+package me.NoMeaningInLife.HelloWorld;
 
 
 import org.bukkit.command.Command;
