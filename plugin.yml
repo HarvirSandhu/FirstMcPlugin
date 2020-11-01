@@ -1,0 +1,7 @@
+main: me.HarvirSandhu.HelloWorld.Main
+name: Hello
+version: 1.0
+author: HarvirSandhu
+
+commands:
+  Hello:
