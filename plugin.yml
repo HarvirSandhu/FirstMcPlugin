@@ -1,0 +1,7 @@
+main: me.NoMeaningInLife.HelloWorld1.Main
+name: Hello
+version: 1.0
+author: NoMeaningInLife
+
+commands:
+  Hello:
