@@ -1,7 +1,7 @@
-main: me.HarvirSandhu.HelloWorld.Main
+main: me.NoMeaningInLife.HelloWorld.Main
 name: Hello
 version: 1.0
-author: HarvirSandhu
+author: NoMeaningInLife
 
 commands:
   Hello:
